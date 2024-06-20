@@ -1,0 +1,2 @@
+# VotingPoll
+Voting Poll (Django)
